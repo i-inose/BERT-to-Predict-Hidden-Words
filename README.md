@@ -30,3 +30,6 @@ _, predict_indexes = torch.topk(predictions[0, 4], k=5)
 predict_tokens = tokenizer.convert_ids_to_tokens(predict_indexes.tolist())
 print(predict_tokens)
 ```
+
+# Result
+![image](https://user-images.githubusercontent.com/78309273/178986669-2b86a293-1ae2-453b-914f-93183c010862.png)
