@@ -1,4 +1,4 @@
-# Repository Description
+# Introduction
 This program uses BERT to predict hidden words.
 
 # Program Description
